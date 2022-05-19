@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d666b1d7-9cea-4594-91cd-b42b8057011b" name="Changes" comment="m" />
+    <list default="true" id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/2063.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2068.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2070.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2071.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2072.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/boj_4673.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/SW_2072.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2063.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2071.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codingtest-study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_1000.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/problems/BOJ/boj_1000.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_1330.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/problems/BOJ/boj_1330.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_2562.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/problems/BOJ/boj_2562.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +44,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="29JpUyYgrJYqgErsQ9QrfBehlmz" />
+  <component name="ProjectId" id="29MYur0cQqi57xbz3AbLt5FB9dr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,22 +57,27 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/choi/IdeaProjects/codingtest-study/problems",
+    "last_opened_file_path": "C:/Users/choi/IdeaProjects/codingtest-study/problems/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "duplicates.index",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.boj_2562">
-    <configuration name="boj_1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.boj_1008" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems\src" />
+      <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems\src\BOJ" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.sw_2063">
+    <configuration name="boj_4673" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.boj_4673" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
@@ -63,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="boj_1330" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.boj_1330" />
+    <configuration name="sw_2063" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_2063" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.*" />
+          <option name="PATTERN" value="SWEXPORT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="boj_2557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.boj_2557" />
+    <configuration name="sw_2068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_2068" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.*" />
+          <option name="PATTERN" value="SWEXPORT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="boj_2562" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.boj_2562" />
+    <configuration name="sw_2070" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_2070" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.*" />
+          <option name="PATTERN" value="SWEXPORT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="boj_2739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.boj_2739" />
+    <configuration name="sw_2071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_2071" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.*" />
+          <option name="PATTERN" value="SWEXPORT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,33 +143,24 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.boj_2562" />
-        <item itemvalue="Application.boj_2739" />
-        <item itemvalue="Application.boj_1330" />
-        <item itemvalue="Application.boj_1008" />
-        <item itemvalue="Application.boj_2557" />
+        <item itemvalue="Application.sw_2063" />
+        <item itemvalue="Application.sw_2068" />
+        <item itemvalue="Application.sw_2070" />
+        <item itemvalue="Application.sw_2071" />
+        <item itemvalue="Application.boj_4673" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d666b1d7-9cea-4594-91cd-b42b8057011b" name="Changes" comment="" />
-      <created>1652841065130</created>
+      <changelist id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="" />
+      <created>1652924649332</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1652841065130</updated>
-      <workItem from="1652841067057" duration="5559000" />
-      <workItem from="1652847293951" duration="1010000" />
+      <updated>1652924649332</updated>
+      <workItem from="1652924650610" duration="3813000" />
     </task>
-    <task id="LOCAL-00001" summary="m">
-      <created>1652848888094</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1652848888095</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,12 +176,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-    <MESSAGE value="m" />
-    <option name="LAST_COMMIT_MESSAGE" value="m" />
   </component>
 </project>

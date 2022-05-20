@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/2063.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2068.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2070.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2071.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2072.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/boj_4673.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/SW_2072.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2063.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2068.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2070.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2071.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codingtest-study.iml" beforeDir="false" />
+    <list default="true" id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="upload 2063, 2068, 2070, 2071, 2072">
+      <change afterPath="$PROJECT_DIR$/src/2058.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2058.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_1000.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/problems/BOJ/boj_1000.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_1330.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/problems/BOJ/boj_1330.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_2562.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/problems/BOJ/boj_2562.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,17 +40,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/choi/IdeaProjects/codingtest-study/problems/src",
+    "last_opened_file_path": "C:/Users/choi/IdeaProjects/codingtest-study/problems",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "duplicates.index",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems" />
       <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -75,13 +59,13 @@
       <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems\src\BOJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sw_2063">
-    <configuration name="boj_4673" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.boj_4673" />
+  <component name="RunManager" selected="Application.sw_2058">
+    <configuration name="sw_2058" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_2058" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.*" />
+          <option name="PATTERN" value="SWEXPORT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sw_2058" />
         <item itemvalue="Application.sw_2063" />
         <item itemvalue="Application.sw_2068" />
         <item itemvalue="Application.sw_2070" />
         <item itemvalue="Application.sw_2071" />
-        <item itemvalue="Application.boj_4673" />
       </list>
     </recent_temporary>
   </component>
@@ -159,8 +143,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652924649332</updated>
-      <workItem from="1652924650610" duration="3813000" />
+      <workItem from="1652924650610" duration="5273000" />
+      <workItem from="1653004672879" duration="3978000" />
     </task>
+    <task id="LOCAL-00001" summary="upload 2063, 2068, 2070, 2071, 2072">
+      <created>1652929660901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652929660901</updated>
+    </task>
+    <task id="LOCAL-00002" summary="upload 2063, 2068, 2070, 2071, 2072">
+      <created>1652929826992</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652929826992</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,5 +176,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload 2063, 2068, 2070, 2071, 2072" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload 2063, 2068, 2070, 2071, 2072" />
   </component>
 </project>

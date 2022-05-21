@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="upload 2058">
-      <change afterPath="$PROJECT_DIR$/src/1938.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2025.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2029.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2043.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2046.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1933.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1936.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1938.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2027.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2029.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2043.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2046.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="upload 2058" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,21 +30,21 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/choi/IdeaProjects/codingtest-study/problems/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/choi/IdeaProjects/codingtest-study/problems/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems\src" />
@@ -163,6 +145,7 @@
       <workItem from="1653012417454" duration="1155000" />
       <workItem from="1653014437116" duration="1984000" />
       <workItem from="1653109840907" duration="5595000" />
+      <workItem from="1653150566397" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2063, 2068, 2070, 2071, 2072">
       <created>1652929660901</created>

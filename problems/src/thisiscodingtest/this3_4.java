@@ -5,7 +5,7 @@ package thisiscodingtest;
  * 
  */
 
-public class this_3_4 {
+public class this3_4 {
     public static void main(String[] args) {
         int N = 25;
         int K = 5;

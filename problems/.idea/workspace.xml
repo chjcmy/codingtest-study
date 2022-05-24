@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="upload 2058">
-      <change afterPath="$PROJECT_DIR$/../.idea/codingtest-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thisiscodingtest/this4_2.java" afterDir="false" />
+    <list default="true" id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="upload this4_1,this4_2">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1859.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2007.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1859.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1859_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_2007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thisiscodingtest/this4_2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thisiscodingtest/this4_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thisiscodingtest/this4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thisiscodingtest/this4_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thisiscodingtest/this_3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thisiscodingtest/this3_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +35,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -41,25 +48,26 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/choi/IdeaProjects/codingtest-study/problems&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/chjcm/IdeaProjects/codingtest-study/problems/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chjcm\IdeaProjects\codingtest-study\problems\src" />
       <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems\src" />
       <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems\src\SWEXPORT" />
       <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems" />
@@ -69,13 +77,13 @@
       <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems\src\BOJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.this3_4">
-    <configuration name="this3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thisiscodingtest.this3_4" />
+  <component name="RunManager" selected="Application.sw_2007">
+    <configuration name="SWEXPORT.sw_1859" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_1859" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thisiscodingtest.*" />
+          <option name="PATTERN" value="SWEXPORT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="this4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thisiscodingtest.this4_1" />
+    <configuration name="sw_1859_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_1859_1" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thisiscodingtest.*" />
+          <option name="PATTERN" value="SWEXPORT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="this4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thisiscodingtest.this4_2" />
+    <configuration name="sw_2007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_2007" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thisiscodingtest.*" />
+          <option name="PATTERN" value="SWEXPORT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thisiscodingtest.this3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thisiscodingtest.this3_2" />
+    <configuration name="this4_2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thisiscodingtest.this4_2_2" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
@@ -135,6 +143,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sw_2007" />
+        <item itemvalue="Application.sw_1859_1" />
+        <item itemvalue="Application.SWEXPORT.sw_1859" />
+        <item itemvalue="Application.this4_2_2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -157,6 +173,9 @@
       <workItem from="1653296939442" duration="485000" />
       <workItem from="1653328558635" duration="1036000" />
       <workItem from="1653329623400" duration="146000" />
+      <workItem from="1653329796003" duration="390000" />
+      <workItem from="1653365309481" duration="4428000" />
+      <workItem from="1653371332786" duration="20265000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2063, 2068, 2070, 2071, 2072">
       <created>1652929660901</created>
@@ -186,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653276134494</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="upload this4_1,this4_2">
+      <created>1653329966008</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653329966008</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +245,7 @@
     <MESSAGE value="upload 2063, 2068, 2070, 2071, 2072" />
     <MESSAGE value="upload 2058" />
     <MESSAGE value="upload thisiscodingtest" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload thisiscodingtest" />
+    <MESSAGE value="upload this4_1,this4_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload this4_1,this4_2" />
   </component>
 </project>

@@ -4,20 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="upload sw_1946, sw_1948">
-      <change afterPath="$PROJECT_DIR$/src/1209.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1213.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1284.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1285.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1288.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1928.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1209.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1213.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1284.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1285.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1288.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1928.java" afterDir="false" />
+    <list default="true" id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="upload sw_1209, sw_1213, sw_1284, sw_1285, sw_1928">
+      <change afterPath="$PROJECT_DIR$/src/1204.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1206.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1208.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1208.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SWEXPORT/sw_1288.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEXPORT/sw_1288.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +76,8 @@
       <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems\src\BOJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sw_1209">
-    <configuration name="sw_1209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.sw_1204">
+    <configuration name="SWEXPORT.sw_1209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_1209" />
       <module name="problems" />
       <extension name="coverage">
@@ -95,7 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sw_1213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SWEXPORT.sw_1213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_1213" />
       <module name="problems" />
       <extension name="coverage">
@@ -108,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sw_1284" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_1284" />
+    <configuration name="sw_1204" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_1204" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sw_1285" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_1285" />
+    <configuration name="sw_1206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_1206" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sw_1288" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_1288" />
+    <configuration name="sw_1208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_1208" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sw_1209" />
-        <item itemvalue="Application.sw_1213" />
-        <item itemvalue="Application.sw_1284" />
-        <item itemvalue="Application.sw_1285" />
-        <item itemvalue="Application.sw_1288" />
+        <item itemvalue="Application.sw_1204" />
+        <item itemvalue="Application.sw_1206" />
+        <item itemvalue="Application.sw_1208" />
+        <item itemvalue="Application.SWEXPORT.sw_1209" />
+        <item itemvalue="Application.SWEXPORT.sw_1213" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +181,8 @@
       <workItem from="1653528438806" duration="29589000" />
       <workItem from="1653615113812" duration="1811000" />
       <workItem from="1653617879031" duration="14462000" />
-      <workItem from="1653642872157" duration="2673000" />
+      <workItem from="1653642872157" duration="4448000" />
+      <workItem from="1653724175374" duration="16406000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2063, 2068, 2070, 2071, 2072">
       <created>1652929660901</created>
@@ -265,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653549201537</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="upload sw_1209, sw_1213, sw_1284, sw_1285, sw_1928">
+      <created>1653651684953</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653651684953</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +309,8 @@
     <MESSAGE value="upload sw_1970, sw_1966, sw_1961" />
     <MESSAGE value="upload sw_1959" />
     <MESSAGE value="upload sw_1946, sw_1948" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload sw_1946, sw_1948" />
+    <MESSAGE value="upload sw_1209, sw_1213, sw_1284, sw_1285, sw_1928" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload sw_1209, sw_1213, sw_1284, sw_1285, sw_1928" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -320,11 +324,6 @@
           <url>file://$PROJECT_DIR$/src/SWEXPORT/sw_1285.java</url>
           <line>37</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SWEXPORT/sw_1209.java</url>
-          <line>72</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

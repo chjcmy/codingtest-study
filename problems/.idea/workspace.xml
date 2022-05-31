@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="upload sw_1209, sw_1213, sw_1284, sw_1285, sw_1928">
-      <change afterPath="$PROJECT_DIR$/src/BOJ/boj_10872.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/boj_17478.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/boj_2750.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/boj_2751.java" afterDir="false" />
+    <list default="true" id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="upload boj_2750, boj_2751, boj_10872, boj_17478">
+      <change afterPath="$PROJECT_DIR$/src/BOJ/boj_1937.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/boj_token.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,24 +42,27 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/chjcm/IdeaProjects/codingtest-study/problems/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/chjcm/IdeaProjects/codingtest-study/problems/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\chjcm\IdeaProjects\codingtest-study\problems\src" />
@@ -73,9 +75,22 @@
       <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems\src\BOJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.boj_2751">
+  <component name="RunManager" selected="Application.boj_1937">
     <configuration name="boj_10872" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ.boj_10872" />
+      <module name="problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOJ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="boj_1937" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.boj_1937" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
@@ -113,25 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sw_1204" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_1204" />
+    <configuration name="boj_token" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.boj_token" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEXPORT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sw_1206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEXPORT.sw_1206" />
-      <module name="problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SWEXPORT.*" />
+          <option name="PATTERN" value="BOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.boj_1937" />
+        <item itemvalue="Application.boj_token" />
         <item itemvalue="Application.boj_2751" />
         <item itemvalue="Application.boj_2750" />
         <item itemvalue="Application.boj_10872" />
-        <item itemvalue="Application.sw_1204" />
-        <item itemvalue="Application.sw_1206" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +184,8 @@
       <workItem from="1653724175374" duration="16406000" />
       <workItem from="1653783020885" duration="2164000" />
       <workItem from="1653877697094" duration="3937000" />
+      <workItem from="1653964722845" duration="5915000" />
+      <workItem from="1653971005238" duration="59000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2063, 2068, 2070, 2071, 2072">
       <created>1652929660901</created>
@@ -267,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653651684953</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="upload boj_2750, boj_2751, boj_10872, boj_17478">
+      <created>1653964943874</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1653964943874</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,7 +320,8 @@
     <MESSAGE value="upload sw_1959" />
     <MESSAGE value="upload sw_1946, sw_1948" />
     <MESSAGE value="upload sw_1209, sw_1213, sw_1284, sw_1285, sw_1928" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload sw_1209, sw_1213, sw_1284, sw_1285, sw_1928" />
+    <MESSAGE value="upload boj_2750, boj_2751, boj_10872, boj_17478" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload boj_2750, boj_2751, boj_10872, boj_17478" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

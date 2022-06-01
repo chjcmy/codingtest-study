@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('./input/2050.txt')
+sys.stdin = open('../input/2050.txt')
 
 if __name__ == '__main__':
     container=input()

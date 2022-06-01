@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('./input/2056.txt')
+sys.stdin = open('../input/2056.txt')
 
 if __name__ == '__main__':
     T = int(input())

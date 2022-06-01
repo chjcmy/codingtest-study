@@ -4,11 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="upload boj_2750, boj_2751, boj_10872, boj_17478">
-      <change afterPath="$PROJECT_DIR$/src/BOJ/boj_1937.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/boj_token.java" afterDir="false" />
+    <list default="true" id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="upload boj_1937">
+      <change afterPath="$PROJECT_DIR$/src/BOJ/boj_1037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/boj_1748.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/boj_2798.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/boj/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/boj/boj_2557.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/sw/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/1938.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/2025.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/2029.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/2043.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/2046.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/2056.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/2058.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/2063.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/2068.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/2070.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/2071.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/2072.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_1000.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_1008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_10818.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_1330.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_2557.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_2562.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_2739.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/BOJ/boj_4673.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/SW_2072.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_1933.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_1936.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_1938.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_2019.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_2025.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_2027.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_2029.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_2043.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_2046.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_2056.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_2058.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_2063.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_2068.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_2070.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/problems/SWEXPORT/sw_2071.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/problems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/boj_10818.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/boj_10818.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/sw+2047.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/sw/sw+2047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/sw_2046.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/sw/sw_2046.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/sw_2050.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/sw/sw_2050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/sw_2056.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/sw/sw_2056.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,16 +97,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/chjcm/IdeaProjects/codingtest-study/problems/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/chjcm/IdeaProjects/codingtest-study/problems&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
@@ -75,9 +122,9 @@
       <recent name="C:\Users\choi\IdeaProjects\codingtest-study\problems\src\BOJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.boj_1937">
-    <configuration name="boj_10872" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.boj_10872" />
+  <component name="RunManager" selected="애플리케이션.boj_1748">
+    <configuration name="boj_1037" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.boj_1037" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="boj_1937" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.boj_1937" />
+    <configuration name="boj_10818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.boj_10818" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="boj_2750" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.boj_2750" />
+    <configuration name="boj_1748" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.boj_1748" />
       <module name="problems" />
       <extension name="coverage">
         <pattern>
@@ -143,15 +190,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.boj_1937" />
-        <item itemvalue="Application.boj_token" />
-        <item itemvalue="Application.boj_2751" />
-        <item itemvalue="Application.boj_2750" />
-        <item itemvalue="Application.boj_10872" />
+        <item itemvalue="애플리케이션.boj_1748" />
+        <item itemvalue="애플리케이션.boj_1037" />
+        <item itemvalue="애플리케이션.boj_10818" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\chjcm\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c316562c-c32f-49b0-b8ed-71106dcdf0ed" name="Changes" comment="" />
@@ -185,7 +233,8 @@
       <workItem from="1653783020885" duration="2164000" />
       <workItem from="1653877697094" duration="3937000" />
       <workItem from="1653964722845" duration="5915000" />
-      <workItem from="1653971005238" duration="59000" />
+      <workItem from="1653971005238" duration="3621000" />
+      <workItem from="1653977351248" duration="411000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2063, 2068, 2070, 2071, 2072">
       <created>1652929660901</created>
@@ -278,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653964943874</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="upload boj_1937">
+      <created>1653971152153</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1653971152153</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +377,8 @@
     <MESSAGE value="upload sw_1946, sw_1948" />
     <MESSAGE value="upload sw_1209, sw_1213, sw_1284, sw_1285, sw_1928" />
     <MESSAGE value="upload boj_2750, boj_2751, boj_10872, boj_17478" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload boj_2750, boj_2751, boj_10872, boj_17478" />
+    <MESSAGE value="upload boj_1937" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload boj_1937" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -336,7 +393,32 @@
           <line>37</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BOJ/boj_10818.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BOJ/boj_10818.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BOJ/boj_10818.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BOJ/boj_1748.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/problems$boj_10818.ic" NAME="boj_10818 커버리지 결과" MODIFIED="1653978175956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>BOJ.*</FILTER>
+    </SUITE>
   </component>
 </project>
